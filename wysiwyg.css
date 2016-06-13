@@ -1,0 +1,31 @@
+
+.person__container[num=even] {
+	background-color: goldenrod;
+}
+
+.person__container[num=odd] {
+	background-color: blue;
+}
+
+.person__container {
+	width: 30%;
+	height: 500px;
+	margin: 1.33%;
+	display: inline-block;
+}
+
+.image {
+ max-height: 100%;
+ max-width: 100%;
+ margin: 0 25%;
+}
+
+.imageContainer {
+	height: 300px;
+	width: 300px;
+
+}
+
+.clickBorder {
+	border: 1px dotted tomato;
+}
